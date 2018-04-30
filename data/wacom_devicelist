@@ -400,7 +400,6 @@ wheel=no
 touchring=no
 touchstripl=yes
 touchstripr=yes
-touchstripr=no
 hwbutton1=1
 hwbutton2=2
 hwbutton3=3
