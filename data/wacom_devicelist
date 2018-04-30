@@ -817,7 +817,7 @@ hwbutton9=13
 model=PTK-540WL
 layout=bl_4
 name=Wacom Intuos4 WL USB
-padbuttons=8
+padbuttons=9
 statusleds=4
 wheel=no
 touchring=yes
@@ -831,12 +831,13 @@ hwbutton5=9
 hwbutton6=10
 hwbutton7=11
 hwbutton8=12
+hwbutton9=13
 
 [00BD]
 model=unknwon
 layout=bl_4
 name=Wacom Intuos4 WL Bluetooth
-padbuttons=8
+padbuttons=9
 statusleds=4
 wheel=no
 touchring=yes
@@ -850,6 +851,7 @@ hwbutton5=9
 hwbutton6=10
 hwbutton7=11
 hwbutton8=12
+hwbutton9=13
 
 [00C0]
 model=MODEL_DTF720
