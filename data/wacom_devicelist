@@ -539,7 +539,7 @@ layout=unknown
 name=Wacom Bamboo one
 padbuttons=o
 wheel=no
-touchring=yes
+touchring=no
 touchstripl=no
 touchstripr=no
 
